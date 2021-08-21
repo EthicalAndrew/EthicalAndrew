@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EthicalAndrew
-- 👀 I’m interested in increasing my knowledge of the cyber security sector
+- 👀 I’m interested in using Git and Github to work with my classmates and create new & great things.
 - 🌱 I’m currently learning Computer Networking, more advanced data structures and Ethical Hacking
-- 💞️ I’m looking to collaborate on mini projects, advancing my ability to teamwork remotely
+- 💞️ I’m looking to collaborate on mini projects.
 - 📫 How to reach me ||Not quite decided yet :)||
 
 <!---
