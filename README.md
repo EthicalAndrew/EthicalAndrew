@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EthicalAndrew
-- 👀 I’m interested in using Git and Github to work with my classmates and create new & great things.
+- 👀 I’m interested in using Git and Github to work with my classmates and create new, great things.
 - 🌱 I’m currently learning Computer Networking, more advanced data structures and Ethical Hacking
 - 💞️ I’m looking to collaborate on mini projects.
 - 📫 How to reach me ||Not quite decided yet :)||
